@@ -1,3 +1,5 @@
+import type { DownloadLink } from '@/app/write/types'
+
 export type BlogIndexItem = {
 	slug: string
 	title: string
@@ -17,5 +19,6 @@ export type BlogConfig = {
 	cover?: string
 	hidden?: boolean
 	category?: string
+	downloadLinks?: DownloadLink[]
 }
 
