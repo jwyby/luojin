@@ -12,10 +12,10 @@ type DownloadSectionProps = {
 const cloudStorageOptions = [
 	{ value: '百度网盘', label: '百度网盘' },
 	{ value: '阿里云盘', label: '阿里云盘' },
-	{ value: '蓝奏', label: '蓝奏云' },
-	{ value: '夸克', label: '夸克网盘' },
-	{ value: '迅雷', label: '迅雷网盘' },
-	{ value: '豆包', label: '豆包网盘' },
+	{ value: '蓝奏云', label: '蓝奏云' },
+	{ value: '夸克网盘', label: '夸克网盘' },
+	{ value: '迅雷网盘', label: '迅雷网盘' },
+	{ value: '豆包网盘', label: '豆包网盘' },
 	{ value: 'GitHub', label: 'GitHub下载' },
 	{ value: '本地下载', label: '本地下载' }
 ]
