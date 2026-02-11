@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "[贰狗日志]",
-		"description": "任贰狗的个人博客，发布一些日常收集来的软件、游戏，还有一些乱七八糟瞎折腾的研究笔记教程之类的。",
-		"username": "Ciao"
+		"title": "[小枫日记]",
+		"description": "枫花落烬的个人博客，发布一些日常收集来的软件、游戏，还有一些乱七八糟瞎折腾的研究笔记教程之类的。",
+		"username": "枫花落烬"
 	},
 	"theme": {
 		"colorBrand": "#35bfab",
@@ -40,14 +40,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/RT622",
+			"value": "https://github.com/jwyby",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "qq",
-			"value": "/images/social-buttons/7f509f0a4c020a31.png",
+			"type": "wechat",
+			"value": "/images/social-buttons/9225b5aba284c2e3.jpg",
 			"label": "稀土掘金",
 			"order": 2
 		},
