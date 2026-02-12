@@ -1,5 +1,21 @@
 [
   {
+    "slug": "宝藏软件",
+    "title": "电视猫",
+    "tags": [
+      "免费",
+      "影视"
+    ],
+    "date": "2026-02-12T09:34",
+    "summary": "",
+    "cover": "/blogs/宝藏软件/f64b4824263cfcde.webp",
+    "hidden": false,
+    "category": "软件",
+    "downloadLinks": [],
+    "passwordProtected": false,
+    "password": ""
+  },
+  {
     "slug": "splayer",
     "title": "SPlayer开源音乐播放器",
     "tags": [
