@@ -1,5 +1,18 @@
 [
   {
+    "slug": "免费",
+    "title": "你好",
+    "tags": [],
+    "date": "2026-02-12T08:31",
+    "summary": "测试一下",
+    "cover": "/blogs/免费/f28d8bfcb2ad3d04.png",
+    "hidden": false,
+    "category": "",
+    "downloadLinks": [],
+    "passwordProtected": false,
+    "password": ""
+  },
+  {
     "slug": "splayer",
     "title": "SPlayer开源音乐播放器",
     "tags": [
